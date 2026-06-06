@@ -1,4 +1,4 @@
-### Pluto_Proj1
+# Pluto_Proj1
 # Netflix Exploratory Data Analysis (EDA)
 
 ## Project Overview
