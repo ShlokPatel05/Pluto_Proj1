@@ -49,4 +49,4 @@ Netflix Movies & TV Shows Dataset
 
 ## Author
 
-Shlok Patel
+Shlok Jigesh Patel
